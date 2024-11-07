@@ -13,3 +13,7 @@ I am pretty happy with the result anyway. 🥰
 If you want to see the tutorial, as i said, in french, please access to the website of OpenClassrooms : 
 
 [Accédez au cours "Créez votre site web avec HTML5 et CSS3" sur OpenClassrooms](https://openclassrooms.com/fr/courses/1603881-creez-votre-site-web-avec-html5-et-css3/8061253-tirez-un-maximum-de-ce-cours)
+
+
+### Some updates i would make on this project 🛠️ 👷‍♀️ :
+while testing the online version, i discovered this is not possible to close the pictures of the Portfolio part when we already clicked on it 🤔, i clearly want to add the possibility to click on a cross to close the picture and see the others pictures, or some arrows to be able to navigate between the pics. But onestly, I am currently learning  JS (november 2024 🗓️) and not able to do so today, this is something i planned to make anyway one day, in the coming months. 
